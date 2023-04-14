@@ -1,7 +1,7 @@
 ﻿int[,] matrix = { { 8, -7 }, { -10, 9 }, {1, -10 } };
 Console.WriteLine("Ввод:");
 GroupPrint(matrix);
-Console.WriteLine("Вывод:");
+Console.WriteLine("Вывод сумма:");
 Console.WriteLine(MaxSumMatrix(matrix));
 
 
